@@ -71,6 +71,16 @@ High = High.reset_index()
 Low = Low.reset_index()
 Close = Close.reset_index()
 
+# Exponential Moving Average
+def ewma_py(x, n):
+    alpha = 2/(1+n)
+    y = np.zeros_like(x)
+    y[0] = x[0]
+    
+    for i in range(1, len(x)):
+        y[i] = alpha * x[i] + (1-alpha) * y[i-1]
+    return y
+
 # New High - New Low
 def getNewHighNewLow(High, Low):
     High = High.bfill().ffill()
