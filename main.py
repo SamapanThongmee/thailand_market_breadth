@@ -72,7 +72,7 @@ Low = Low.reset_index()
 Close = Close.reset_index()
 
 # Exponential Moving Average
-def ewma_py(x, n):
+def getEMA(x, n):
     alpha = 2/(1+n)
     y = np.zeros_like(x)
     y[0] = x[0]
