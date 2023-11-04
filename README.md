@@ -20,7 +20,7 @@ User-friendly documentation to guide developers and traders in understanding and
 Integration with popular data sources to fetch raw stock data for analysis.
 ### Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/AdvUncDec_McClellanOsc.png))
 
 
 ### Appendix
