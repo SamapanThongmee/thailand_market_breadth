@@ -18,10 +18,6 @@ Calculation of various market breadth indicators, such as Advances-Unchanged-Dec
 User-friendly documentation to guide developers and traders in understanding and utilizing these indicators effectively.
 
 Integration with popular data sources to fetch raw stock data for analysis.
-### Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ### Appendix
 
