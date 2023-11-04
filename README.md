@@ -20,10 +20,13 @@ User-friendly documentation to guide developers and traders in understanding and
 Integration with popular data sources to fetch raw stock data for analysis.
 
 ### Screenshot
+#### Advances-Unchanged-Declines and McClellan Oscillator
 <img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/AdvUncDec_McClellanOsc.png" height="600" width="1200" >
 
+#### Moving Averages and Advances-to-Declines
 <img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/MA_AdvDec.png" height="600" width="1200" >
 
+#### New High and New Low
 <img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/NHNL.png" height="600" width="1200" >
 
 
