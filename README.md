@@ -20,7 +20,7 @@ User-friendly documentation to guide developers and traders in understanding and
 Integration with popular data sources to fetch raw stock data for analysis.
 ### Screenshots
 
-![New High and New Low Indicator](images/NHNL.png)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ### Appendix
